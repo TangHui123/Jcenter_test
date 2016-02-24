@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         jcenterTest();
     }
     
+    //tanghui test
     private void jcenterTest() {
         Log.v("ll","kkkk");
     }
